@@ -1,0 +1,202 @@
+{
+  "events": [
+    {
+      "id": 169331,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "WORK ",
+      "description": "eah",
+      "location": "Here is ",
+      "date": "2020-07-24T09:34:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 169331391,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "WORK ",
+      "description": "eah",
+      "location": "Here is ",
+      "date": "2020-07-24T09:34:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 169933391,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "WORK ",
+      "description": "eah",
+      "location": "Here is ",
+      "date": "2020-07-24T09:34:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 1693391,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "WORK ",
+      "description": "eah",
+      "location": "Here is ",
+      "date": "2020-07-24T09:34:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 1692222233391,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "WORK ",
+      "description": "eah",
+      "location": "Here is ",
+      "date": "2020-07-24T09:34:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 16936633391,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "WORK ",
+      "description": "eah",
+      "location": "Here is ",
+      "date": "2020-07-24T09:34:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 16984533391,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "WORK ",
+      "description": "eah",
+      "location": "Here is ",
+      "date": "2020-07-24T09:34:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 169333991,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "WORK ",
+      "description": "eah",
+      "location": "Here is ",
+      "date": "2020-07-24T09:34:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 2215970,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "Name events ",
+      "description": "desc",
+      "location": "here it is ",
+      "date": "2020-07-11T10:19:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 89534575,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "dfh",
+      "description": "vf",
+      "location": "[;",
+      "date": "2020-07-09T15:45:00.000Z",
+      "time": "21:00",
+      "attendees": []
+    },
+    {
+      "id": 79684176,
+      "user": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "category": "",
+      "organizer": {
+        "id": "someId2134",
+        "name": "User Name"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
